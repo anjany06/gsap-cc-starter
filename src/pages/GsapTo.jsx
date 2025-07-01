@@ -9,7 +9,6 @@ const GsapTo = () => {
       yoyo: true,
       rotation: 360,
       duration: 2,
-      ease: "elastic",
     });
   }, []);
 
